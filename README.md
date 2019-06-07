@@ -1,1 +1,1 @@
-gitalk comment for [hate13.com](https://hate13.com)
+gitalk comment for [blog.hate13.com](https://blog.hate13.com)
